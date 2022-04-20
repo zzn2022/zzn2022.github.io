@@ -1,5 +1,5 @@
 <html>
-<body background="/i/eg_background.jpg">
+<body background="https://w.wallhaven.cc/full/9m/wallhaven-9mw3m8.jpg">
 <body bgcolor="Azure">
 <h1 align="center">送给亲爱的墩子</h1>
 <h3 ailgn="center">做的不好 勉强看吧</h3>
