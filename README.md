@@ -14,4 +14,3 @@ CHINA
 </body>
 </html>
 <script type="text/javascript" src="http://mediaplayer.yahoo.com/js"></script>
-[动态二次元导航页源码.zip](https://github.com/zzn2022/zzn2022.github.io/files/8934836/default.zip)
